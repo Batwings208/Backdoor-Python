@@ -5,7 +5,7 @@ A Python program that sets up a TCP Server that listens for client connections, 
 **Important**: This program is an extremely powerful and dangerous program to use. It can potentially lead to destructive and illegal activities. This project is only to be used for education purposes. I do not hold any liability if used maliciously. Please do not use this for harm or illegal activities.
 
 
-- Documentation
+# Documentation
 
 **Libraries Used**
 
@@ -86,17 +86,14 @@ A Python program that sets up a TCP Server that listens for client connections, 
 
 
 
-**Security and Ethical Guidelines**
+# Security and Ethical Guidelines
+
+1. **Consent**: Ensure that you have consent of the client to use this software to connect to their system before setting up a connection between your and their system. Do not use this without consent.
+
+2. **Destructive Commands**: Be aware of the destruction that a few of the commands can do like **delete_all_files**, **delete_file**, as those damages are irreversible and can not be restored.
+
+3. **Network Security**: Use this program in a secure and trusted environment. The reason is to prevent any senstive data that is being transferred between the server and client is not read by anyone. The data transfer is not encrypted. That could be a project you could do however.
 
 
 
-
-
-
-
-
-
-
-
-
-
+Enjoy!
