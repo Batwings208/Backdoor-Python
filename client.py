@@ -5,7 +5,7 @@ import time
 
 
 hostname = socket.gethostname()
-host = '127.0.0.1'
+host = '127.0.0.1' #Change to server IP Address for online
 port = 5219
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((host, port))
