@@ -1,6 +1,6 @@
 # Backdoor-Python
 
-A Python program that sets up a TCP Server that listens for client connections, allowing the server to be able to gain access to the client and run various commands. The commands including viewing and modicadication of directories, transferring files, deleting files, or complete takeover of all inputs.
+A Python program that sets up a TCP Server that listens for client connections, allowing the server to be able to gain access to the client and run various commands. The commands including viewing and modification of directories, transferring files, deleting files, or complete takeover of all inputs.
 
 **Important**: This program is an extremely powerful and dangerous program to use. It can potentially lead to destructive and illegal activities. This project is only to be used for education purposes. I do not hold any liability if used maliciously. Please do not use this for harm or illegal activities.
 
